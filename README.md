@@ -10,6 +10,8 @@ My approach in solving this Machine Learning problem.
 7. In feature selection, I first tried Lasso Regression and compared it with Ridge Regression. The output accuracy of my model on features selected by Lasso Regression was significantly higher as compared to values predicted with the help of Ridge regression. So I went with Lasso Regression.
 8. After selecting the features, I started fitting and testing my Classification models on the data. These were my test results.
    
-      I got 95 % accuracy from Logistic Regression model on test data.
-      I got 97 % accuracy from RandomForest Classifier model on test data.
-      I got 98 % accuracy from Decision Tree Classifier model on test data.
+    I got 95 % accuracy from Logistic Regression model on test data.
+    
+    I got 97 % accuracy from RandomForest Classifier model on test data.
+    
+    I got 98 % accuracy from Decision Tree Classifier model on test data.
