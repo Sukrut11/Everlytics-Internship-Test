@@ -15,3 +15,5 @@ My approach in solving this Machine Learning problem.
     I got 97 % accuracy from RandomForest Classifier model on test data.
     
     I got 98 % accuracy from Decision Tree Classifier model on test data.
+
+9. From the test results, I can conclude that Decision Tree Classifiers provides the highest accuracy on new and unseen data.
